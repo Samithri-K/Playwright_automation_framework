@@ -1,1 +1,7 @@
 
+{
+  "validUser": {
+    "username": "admin",
+    "password": "admin123"
+  }
+}
